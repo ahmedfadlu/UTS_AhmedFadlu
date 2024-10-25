@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VolumeBalokApp</string>
+
+    <!-- Hint Input Fields -->
+    <string name="hint_length">Masukkan Panjang Balok</string>
+    <string name="hint_width">Masukkan Lebar Balok</string>
+    <string name="hint_height">Masukkan Tinggi Balok</string>
+
+    <!-- Button Text -->
+    <string name="btn_calculate_volume">Hitung Volume Balok</string>
+    <string name="btn_calculate_surface_area">Hitung Luas Permukaan Balok</string>
+    <string name="btn_back">Kembali ke Halaman Utama</string>
+
+    <!-- Result Text -->
+    <string name="tv_result_volume">Volume balok: </string>
+    <string name="tv_result_surface_area">Luas permukaan balok: </string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_input">Mohon masukkan dimensi yang valid</string>
+    <string name="error_divide_by_zero">Tidak dapat dibagi dengan 0</string>
+    <string name="operation_invalid">Operasi tidak valid</string>
+</resources>
